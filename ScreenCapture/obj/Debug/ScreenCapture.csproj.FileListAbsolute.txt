@@ -1,0 +1,8 @@
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Form1.resources
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.Cache
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
+D:\BSCS\Projects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
